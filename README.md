@@ -41,3 +41,9 @@ Fitting the model to this dataset yields the following equation and performance 
 | **Mean Squared Error (MSE)** | `0.4994` | Average squared prediction error |
 | **Root Mean Squared Error (RMSE)** | `0.7067 kg` | Average prediction deviation in kilograms |
 | **Mean Absolute Error (MAE)** | `0.5739 kg` | Average absolute error across all predictions |
+
+## 👤 Author
+
+**Guniganti Kalyan**  
+Data Scientist  
+* 📧 Email: [kalyanguniganti@gmail.com](mailto:kalyanguniganti@gmail.com)
