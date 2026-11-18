@@ -27,7 +27,7 @@ The dataset contains 15 clean, continuous records with zero missing values:
 
 Simple Linear Regression fits a straight line using Ordinary Least Squares (OLS) defined by:
 
-\[\hat{y} = mX + c\]
+\[ y = mX + c\]
 
 Fitting the model to this dataset yields the following equation and performance metrics:
 
