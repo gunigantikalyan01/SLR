@@ -31,7 +31,7 @@ Simple Linear Regression fits a straight line using Ordinary Least Squares (OLS)
 
 Fitting the model to this dataset yields the following equation and performance metrics:
 
-\[\text{Weight} = 61.2722 \times \text{Height} - 39.0620\]
+\[Weight = 61.2722 times {Height} - 39.0620\]
 
 | Evaluation Metric | Value | Interpretation |
 | :--- | :---: | :--- |
